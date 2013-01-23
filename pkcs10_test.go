@@ -1,4 +1,4 @@
-package ssl
+package pkcs10
 
 import (
 	"crypto/rand"
